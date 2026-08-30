@@ -1,8 +1,6 @@
 <p align="center">
   <a href="https://tensormorph.ai"
       alt="Tensormorph"
-      width="160"
-      style="max-width: 100%;"
     />
     <img alt="Tensormorph Logo" src="https://raw.githubusercontent.com/Tensormorph/tensormorph/refs/heads/main/TensormorphTextLogo.svg"/>
   </a>
